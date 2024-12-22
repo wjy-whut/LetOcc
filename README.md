@@ -1,7 +1,7 @@
 # SLOcc
 
 The official implementation of the paper [SLOcc: Selective Interaction and Long-Range Modelling for Occupancy Prediction]
-![SLOcc](/docs/overrall.png "SLOcc")
+![SLOcc](/docs/image.png "SLOcc")
 
 
 ## Getting Started
